@@ -14,7 +14,7 @@
   <img align="center" alt="adreider-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adreider-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="adreider-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://i.redd.it/xegabqbtxaw51.gif">
+  <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://media.tenor.com/images/1ff8a11c2b9123f221d4895a8f5c4263/tenor.gif">
 </div>
   
   ##
