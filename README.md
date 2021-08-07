@@ -2,9 +2,9 @@
 
 <div>
   <a href="https://github.com/adreider">
-    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreider&layout=compact&langs_count=7&theme=merko"/>
-  <img height="280em"src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&wakatime=7&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreider&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreider&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="280em"src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&wakatime=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 </div>
 <div style="display: inline_block"><br>
