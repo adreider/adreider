@@ -13,6 +13,7 @@
   <img align="center" alt="adreider-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adreider-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="adreider-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="adreider-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://static1.squarespace.com/static/5a16de5b32601eaa305506d6/t/5c136d9cf950b792938ca89d/1544777143962/giphy.gif?format%3D300w">
 </div>
   
