@@ -40,6 +40,10 @@
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/adreider?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/drinhanho?style=for-the-badge)
+  
+---
+  
+[<img src="https://readme-spotify-status.adreider.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://freakycoder.com)
 
 
 Check back often 💜
