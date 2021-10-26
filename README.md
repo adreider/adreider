@@ -21,7 +21,7 @@
   <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://static1.squarespace.com/static/5a16de5b32601eaa305506d6/t/5c136d9cf950b792938ca89d/1544777143962/giphy.gif?format%3D300w">
 </div>
   
-  ##
+  ## Tecnology 🚀
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -33,9 +33,3 @@
   ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  
 </div>
-
-[![Gmail Badge](https://img.shields.io/badge/-adreidereconomic@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adreidereconomic@gmail.com)](mailto:adreidereconomic.com) [![Linkedin Badge](https://img.shields.io/badge/-Adriano%20Lino%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/adriano-lino-de-souza-29847618b/)](https://www.linkedin.com/in/adriano-lino-de-souza-29847618b/) [![Instagram Badge](https://img.shields.io/badge/-@dri_lino_-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dri_lino_/)](https://www.instagram.com/dri_lino_/)
-
-# Tecnologias
-![Javascript Badge](https://img.shields.io/badge/-JavaScript-6633cc?style=flat-square&logo=JavaScript&logoColor=white) ![Typescript Badge](https://img.shields.io/badge/-Typescript-6633cc?style=flat-square&logo=Typescript&logoColor=white) ![Reactjs Badge](https://img.shields.io/badge/-ReactJS-6633cc?style=flat-square&logo=React&logoColor=white)
-![Node Badge](https://img.shields.io/badge/-NodeJS-6633cc?style=flat-square&logo=Node.js&logoColor=white)  ![HTML Badge](https://img.shields.io/badge/-HTML-6633cc?style=flat-square&logo=HTML5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-6633cc?style=flat-square&logo=CSS3&logoColor=white) ![Mysql Badge](https://img.shields.io/badge/-MySQL-6633cc?style=flat-square&logo=mysql&logoColor=white) ![mongodb Badge](https://img.shields.io/badge/-MongoDB-6633cc?style=flat-square&logo=Mongodb&logoColor=white)
