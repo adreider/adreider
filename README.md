@@ -2,7 +2,7 @@
 
   - 🔭 I´m currently about [Reactjs, ReactNative, Nodejs, Javascrit, Typescript]
   - 💬 Ask me about [html, css, git, vscode] 
-  - 
+
 ---
 <div>
   <a href="https://github.com/adreider">
