@@ -8,7 +8,9 @@
   <a href="https://github.com/adreider">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreider&layout=compact&langs_count=7&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adreider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
+    
+## Technologies 🚀
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="adreider-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +23,7 @@
   <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://static1.squarespace.com/static/5a16de5b32601eaa305506d6/t/5c136d9cf950b792938ca89d/1544777143962/giphy.gif?format%3D300w">
 </div>
   
-  ## Tecnology 🚀
+  ## 
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
