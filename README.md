@@ -2,7 +2,8 @@
 
   - 🔭 I´m currently about [Reactjs, ReactNative, Nodejs, Javascrit, Typescript]
   - 💬 Ask me about [html, css, git, vscode] 
-
+  - 
+---
 <div>
   <a href="https://github.com/adreider">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreider&layout=compact&langs_count=7&theme=tokyonight"/>
