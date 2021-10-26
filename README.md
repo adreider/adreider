@@ -39,7 +39,7 @@
 </div>
 
 ---
-![GitHub followers](https://img.shields.io/github/followers/adreider?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/adreider?style=for-the-badge)![Twitter Follow](https://img.shields.io/twitter/follow/drinhanho?style=for-the-badge)
 
 
 Check back often 💜
