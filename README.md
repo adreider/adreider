@@ -1,4 +1,4 @@
-## Olá, eu sou o Adriano Lino ❤️🔥✊🏿
+## Olá, I´m Adriano Lino ❤️🔥✊🏿
 
 <div>
   <a href="https://github.com/adreider">
