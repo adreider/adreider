@@ -39,5 +39,8 @@
 </div>
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/adreider?style=for-the-badge)
+
 
 Check back often 💜
+  
