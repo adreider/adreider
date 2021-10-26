@@ -1,6 +1,6 @@
 ## Here, I´m Adriano Lino ❤️🔥✊🏿
 
-  - 🔭 I´m currently about [Reactjs, ReactNative, Nodejs, Javascrit, Typescript]
+  - 🔭 I´m learning about [Reactjs, ReactNative, Nodejs, Javascrit, Typescript]
   - 💬 Ask me about [html, css, git, vscode] 
 
 ---
